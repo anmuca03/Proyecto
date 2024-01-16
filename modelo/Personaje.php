@@ -5,7 +5,7 @@ include_once ("PersonajeCaracteristica.php");
 include_once ("PersonajeRelacion.php");
 include_once ("PersonajeImagen.php");
 
-/* *******************************************************************************************
+/* ******************************************************************************************
  
  * CLASE Personaje
 
