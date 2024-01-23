@@ -6,7 +6,7 @@ include_once ("Controlador.php");
 
 /* ******************************************************************************************
  
- * CLASE ControladorPersonajes Obj3 prueba
+ * CLASE ControladorPersonajes Obj3 prueba 4
 
 
  * ***************************************************************************************** */
@@ -15,7 +15,7 @@ class ControlPersonajes extends Controlador {
 
 
 	/* *******************************************************************************************
-	 * CONSTRUCTOR Proyecto git q12
+	 * CONSTRUCTOR Proyecto git q12 quuuuuuuu
 	 * ***************************************************************************************** */
 	
 	function __construct() {
