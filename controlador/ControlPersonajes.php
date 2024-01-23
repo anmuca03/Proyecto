@@ -15,7 +15,7 @@ class ControlPersonajes extends Controlador {
 
 
 	/* *******************************************************************************************
-	 * CONSTRUCTOR Proyecto git
+	 * CONSTRUCTOR Proyecto git q10
 	 * ***************************************************************************************** */
 	
 	function __construct() {
